@@ -148,7 +148,7 @@ python3 set_state.py idle "待命中"
   - 本项目仅为**非商用二创/粉丝创作**：选择这个角色，是因为“宝石海星”与作者名字“海辛”在中文发音上有谐音趣味。
   - 本项目的二创内容仅供学习、演示、交流使用，**无任何商业用途**。
   - 任天堂、宝可梦、“宝石海星”均为任天堂/宝可梦公司的商标或注册商标。
-  - 若你计划使用本项目相关内容，请自行评估合规风险，并优先使用你自己的原创角色/美术资产。
+  - 若你计划使用本项目相关内容，请使用你自己的原创角色/美术资产。
 
 - **办公室场景与其他素材**：由本项目作者团队自行制作。
 
@@ -371,7 +371,7 @@ Please keep the source attribution and follow the original author’s license te
   - This project is **non-commercial fan creation only**: this character was chosen because of a fun homophone between “Starmie” and the author’s Chinese name “海辛” (Hǎi Xīn).
   - All fan-created content in this project is for **learning, demonstration, and idea sharing only, with no commercial use**.
   - Nintendo, Pokémon, and “Starmie” are trademarks or registered trademarks of Nintendo/The Pokémon Company.
-  - If you plan to use any content related to this project, please assess compliance risks on your own and prioritize using your own original characters/art assets.
+  - If you plan to use any content related to this project, please use your own original characters/art assets.
 
 - **Office scene & other assets:** created by the project author team.
 
