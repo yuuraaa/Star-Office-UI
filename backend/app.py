@@ -806,8 +806,10 @@ def get_agents():
                 pass
 
         # 2) 超时未推送自动离线（超过5分钟）
+        # demo ソースのエージェントはOpenClawなしのダミー表示用なのでスキップ
         last_push_at_str = a.get("lastPushAt")
-        if auth_status == "approved" and last_push_at_str:
+        is_demo = a.get("source") == "demo"
+        if auth_status == "approved" and last_push_at_str and not is_demo:
             try:
                 last_push_at = datetime.fromisoformat(last_push_at_str)
                 age = (now - last_push_at).total_seconds()
